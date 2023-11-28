@@ -22,5 +22,6 @@
 
 ## 6. Membuat file hapus.php
 
-!
+![Screenshot (309)](Screenshot (309).png)
+
 
