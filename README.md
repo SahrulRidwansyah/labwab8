@@ -22,6 +22,7 @@
 
 ## 6. Membuat file hapus.php
 
-![Screenshot (309)](Screenshot (309).png)
+![image](https://github.com/sahrul180304/labwab8/assets/115526901/dec0f45f-6e01-419f-9925-810350a20df0)
+
 
 
